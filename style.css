@@ -1,0 +1,25 @@
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+nav {
+    background-color: #fafafa !important;
+}
+
+body {
+    background-color: rgb(233, 81, 112);
+}
+
+.card img{
+  height:200px;
+  object-fit:cover;
+}
+
+#downloadBtn {
+    background-color: rgb(233, 81, 112);
+    border-color: rgb(233, 81, 112);
+    box-shadow: 0 0px 5px 3px rgb(255, 168, 185);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
